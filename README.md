@@ -2,9 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project can be accessed via; [Bank of Flatiron](https://bank-of-flatiron-pink.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### 'clone the repo'
+git clone git@github.com:itsybitsy254/Bank-of-Flatiron.git
+cd bank-of-flatiron
+
 
 ### `npm start`
 
